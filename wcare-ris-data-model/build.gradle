@@ -1,0 +1,5 @@
+description "RIS data model"
+
+dependencies {
+    compile 'org.springframework:spring-core'
+}
